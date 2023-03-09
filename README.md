@@ -25,7 +25,7 @@ The Data Peojection Algorithms used are:
 
 ## Documentation
 
-Here is the link to the documentation
+Here is the link to the [documentation](documentation.pdf)
 
 
 ## Repository Structure
